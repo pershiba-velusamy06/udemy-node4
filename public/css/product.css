@@ -2,11 +2,13 @@
     width: 20rem;
     max-width: 90%;
     margin: auto;
+    display: block;
 }
 
 .product-item {
     width: 20rem;
     max-width: 95%;
+    margin: 1rem;
 }
 
 .product__title {
@@ -23,3 +25,10 @@
 .product__description {
     text-align: center;
 }
+.a-space{
+    text-decoration: none;
+  }
+ .imgSize{
+    height: 250px;
+    width: 250px;
+  }
